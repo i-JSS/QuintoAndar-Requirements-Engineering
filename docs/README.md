@@ -22,7 +22,7 @@
 | [Artur Bartz](https://github.com/H0lzz)            | 221007869 | H0lzz           |
 | [Cássio Reis](https://github.com/csreis72)         | 221021886 | csreis72        |
 | [Eduardo Sandes](https://github.com/DiceRunner714) | 221008024 | DiceRunner714   |
-| [João Carvalho](https://github.com/joaoseisei)     | 221008150 | joaoseisei      |
+| [João Carvalho](https://github.com/i-JSS)          | 221008150 | i-JSS           |
 | [Letícia Hladczuk](https://github.com/HladczukLe)  | 221039209 | HladczukLe      |
 
 </div>

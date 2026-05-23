@@ -1,8 +1,25 @@
 <center>
 
-# Trabalho de Requisitos - QuintoAndar 2024-1
+# QuintoAndar — Requirements Engineering
 
 </center>
+
+<p align="center">
+
+![Docsify](https://img.shields.io/badge/Docsify-2ECE53?style=for-the-badge&logo=docsify&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![UML](https://img.shields.io/badge/UML-Use_Cases-informational?style=for-the-badge)
+![NFR Framework](https://img.shields.io/badge/NFR-Framework-informational?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-User_Stories_%26_Backlog-informational?style=for-the-badge)
+![GORE](https://img.shields.io/badge/GORE-i*-informational?style=for-the-badge)
+![FURPS+](https://img.shields.io/badge/FURPS+-informational?style=for-the-badge)
+![MoSCoW](https://img.shields.io/badge/MoSCoW-Prioritization-informational?style=for-the-badge)
+![Rich Picture](https://img.shields.io/badge/Rich_Picture-Pre--Traceability-informational?style=for-the-badge)
+![Personas](https://img.shields.io/badge/Personas-%26_User_Journey-informational?style=for-the-badge)
+![Traceability](https://img.shields.io/badge/Traceability-Backward_%26_Forward-informational?style=for-the-badge)
+![Inspection](https://img.shields.io/badge/Inspection-Verification_%26_Validation-informational?style=for-the-badge)
+
+</p>
 
 > Professor: Maurício Serrano  
 > Semestre: 2024.1   
@@ -22,7 +39,7 @@
 | [Artur Bartz](https://github.com/H0lzz)            | 221007869 | H0lzz           |
 | [Cássio Reis](https://github.com/csreis72)         | 221021886 | csreis72        |
 | [Eduardo Sandes](https://github.com/DiceRunner714) | 221008024 | DiceRunner714   |
-| [João Carvalho](https://github.com/joaoseisei)     | 221008150 | joaoseisei      |
+| [João Carvalho](https://github.com/i-JSS)          | 221008150 | i-JSS           |
 | [Letícia Hladczuk](https://github.com/HladczukLe)  | 221039209 | HladczukLe      |
 
 </div>
